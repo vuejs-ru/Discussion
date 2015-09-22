@@ -13,5 +13,6 @@
 
 ### EN
 * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yyx990803/vue)
+* [**Official Vue.js Forum**](http://forum.vuejs.org/)
 * [https://github.com/vuejs/Discussion/issues](https://github.com/vuejs/Discussion/issues) - обсуждения (можно получить ответ от главного разработчика Vue.js)
 * [Laracasts "The Vast World of Vue.js"](https://laracasts.com/series/learning-vuejs) - screencasts from Jeffrey Way
